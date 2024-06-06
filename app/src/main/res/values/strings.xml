@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">English School</string>
+
+    <string name="mail">Почта</string>
+    <string name="pass">Пароль</string>
+    <string name="enter">Войти</string>
+    <string name="logout">Выйти</string>
+    <string name="toastNotFoundUser">Пользователь не найден или неверный пароль</string>
+    <string name="registration">Регистрация</string>
+    <string name="repPass">Повторите пароль</string>
+    <string name="toastEnterPass">Введите пароль</string>
+    <string name="toastPassDoNotMutch">Пароли не совпадают</string>
+    <string name="back">Назад</string>
+    <string name="toastEmptyToken">Пожалуйста, проверьте заполненность всех полей!</string>
+    <string name="toastErrorPass">Пароль должен состоять минимум из 6 символов</string>
+    <string name="toastErrorPassEqual">Пароли не совпадают</string>
+    <string name="toastLoginError">Некорректный логин или пароль</string>
+    <string name="rules">Правила</string>
+    <string name="learnWords">Изучение слов</string>
+    <string name="tests">Тесты</string>
+    <string name="success">Правильно!</string>
+    <string name="fail">Не правильно</string>
+</resources>
